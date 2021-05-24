@@ -26,8 +26,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/Hugo-VasquezM97/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'>](https://www.facebook.com/TakashiVasquez97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='50'>](https://www.instagram.com/takashi_vm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='50'>](https://twitter.com/Takashi_Vasquez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='50'>](https://codepen.io/takashiv97)  
 
-<td valign="center" width="50px">
-
 </a>  
 </div>  
 </br>
@@ -37,14 +35,10 @@
 
 ## **Estadísticas**
 
-<div align="center">
+<div class="row" align="center">
 <br/> </br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TakashiV97&show_icons=true)
-
-<br/> </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakashiV97)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/TakashiV97)  
 

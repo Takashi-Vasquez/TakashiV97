@@ -2,22 +2,18 @@
 
 <div class="row" align="justify">
 <br/> </br>
-- ☕Actualmente estoy finalizando mi carrera de ingenieria de computacion y sistemas en la Universidad Privada Antenor Orrego en Perú.Estoy muy motivado por continuar mis estudios en el sector de Frontend donde esta plataforma me permitirá ampliar mis conocimientos en este campo, con la ambición de hacer de mi pasión mi carrera profesional.☕
+☕Actualmente estoy finalizando mi carrera de ingenieria de computacion y sistemas en la Universidad Privada Antenor Orrego en Perú.Estoy muy motivado por continuar mis estudios en el sector de Frontend donde esta plataforma me permitirá ampliar mis conocimientos en este campo, con la ambición de hacer de mi pasión mi carrera profesional.☕
 </div>
-<br/> </br>
-
-
-<img align="center" alt="Whispering..." style="margin-top: -10px" class="mr-3" src="https://images.unsplash.com/photo-1618401479427-c8ef9465fbe1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=726&q=80" width="1800" height="543">
 
 <div class="row" align="center">
 
 <br/> </br>
 
-<img align="left" alt="Whispering..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="150" height="150">
+<img align="left" alt="Whispering..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="100" height="100">
 
-<img align="center"  alt="Whispering..." style="margin-top: -10px" class="mr-3" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150" height="150">
+<img align="center"  alt="Whispering..." style="margin-top: -10px" class="mr-3" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100" height="100">
 
-<img align="right"  alt="Whispering..." style="margin-top: -10px" class="mr-3"  src="https://github.githubassets.com/images/mona-whisper.gif" width="150" height="150">
+<img align="right"  alt="Whispering..." style="margin-top: -10px" class="mr-3"  src="https://github.githubassets.com/images/mona-whisper.gif" width="100" height="100">
 
 </div>
 
